@@ -57,31 +57,58 @@ Sou movido pela inovação, aprendizado contínuo e trabalho em equipe. Busco co
 
 
 
-# Hello, I'm Daniel Villegas! 👋
+# Hello World! 🦁  
+Hi, I'm Daniel Villegas! 👋  
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I'm from Venezuela and have been living in Brazil since 2019. I've been married for 17 years and have two beautiful princesses as daughters.
+🇻🇪 I'm originally from Venezuela and have been living in Brazil since 2019.  
+👨‍👩‍👧‍👧 Married for 17 years and proud father of two beautiful daughters.  
+💻 Passionate about technology, digital transformation, and innovation.
 
-## About me
+---
 
-- 🔭 I'm currently studying and learning a lot in the technology field.
-- 🌱 I'm constantly learning about a wide range of topics, from programming to general culture.
+## ✨ About Me
 
-### Technologies I've had contact with so far
+After more than 15 years of experience leading and supervising projects in construction, metalworking, and wood industries, I decided to follow a new professional path: **technology**.
+
+Now fully immersed in the tech world, I’m focused on cloud computing, backend development, and data analysis. I’ve earned certifications such as **AWS Cloud Practitioner** and **AWS AI Practitioner**, and contributed to the **ChefBot** project — a cloud-native solution built using AWS Lambda, Lex, DynamoDB, S3, Bedrock, and OpenSearch.
+
+I believe in continuous learning, innovation, and collaborative work. I'm looking for opportunities where I can contribute to impactful projects that shape the future of technology.
+
+---
+
+## 🚀 Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Contact me
+---
 
-- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/vdaniel07/)
+## 📜 Certifications
 
-  
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-00C7B7?style=for-the-badge&logo=cloudsmith&logoColor=white)
 
+---
 
+## 📚 Current Learning Path
+
+🎯 Fullstack – Toti  
+🐍 Python Training – Entre21  
+🐧 Linux Fundamentals – DIO + Santander  
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Villegas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+
+---
