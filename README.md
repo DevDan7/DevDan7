@@ -17,6 +17,8 @@ Atualmente, estou me capacitando intensamente em computação em nuvem, backend 
 
 Sou movido pela inovação, aprendizado contínuo e trabalho em equipe. Busco colaborar com projetos que impactem positivamente o mundo através da tecnologia.
 
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=devdan7&show_icons=true&theme=radical)
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
