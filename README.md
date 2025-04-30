@@ -19,6 +19,8 @@ Sou movido pela inovação, aprendizado contínuo e trabalho em equipe. Busco co
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=devdan7&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdan7&hide_progress=true)
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas
