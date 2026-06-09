@@ -1,118 +1,179 @@
-# Hello Mundo! 🦁  
-Olá, eu sou Daniel Villegas! 👋  
-Bem-vindo ao meu perfil do GitHub!
+```markdown
+<h1 align="center">Hi, I'm Daniel Villegas 👋</h1>
 
-🇻🇪 Sou da Venezuela e moro no Brasil desde 2019.  
-👨‍👩‍👧‍👧 Casado há 18 anos e pai de duas lindas princesas.  
-🌎 Apaixonado por tecnologia, transformação digital e inovação.
+<h3 align="center">
+AWS Certified Cloud Professional | Cloud Computing | Python | Linux | Terraform
+</h3>
 
----
-
-## ✨ Sobre Mim
-
-Radicado no Brasil há 5 anos, abracei a tecnologia como minha nova paixão profissional.  
-Com mais de 15 anos de experiência na liderança de projetos nos setores da construção civil, metalmecânica e madeireiro, decidi trilhar um novo caminho: a transformação digital.
-
-Atualmente, estou me capacitando intensamente em computação em nuvem, backend e análise de dados. Obtive certificações da AWS (Cloud Practitioner e AI Practitioner) e participei do projeto **ChefBot**, uma solução na nuvem usando Lambda, Lex, DynamoDB, S3 e Bedrock.
-
-Sou movido pela inovação, aprendizado contínuo e trabalho em equipe. Busco colaborar com projetos que impactem positivamente o mundo através da tecnologia.
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=devdan7&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdan7&hide_progress=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vdaniel07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Villegas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/DevDan7">
+    <img src="https://img.shields.io/badge/GitHub-DevDan7-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I am an AWS-certified cloud professional transitioning into the technology industry, with a focus on **Cloud Computing, Cloud Operations, Serverless Architecture, Python and Infrastructure as Code**.
 
----
+Before moving into technology, I accumulated more than 15 years of experience leading and supervising teams and projects in the construction, metalworking and wood industries. This background strengthened my skills in leadership, problem-solving, process organization and teamwork.
 
-## 📜 Certificações
+I currently build practical cloud projects using AWS services and volunteer as an **AWS Cloud Practitioner mentor at Escola da Nuvem**, helping students understand cloud concepts and prepare for certification exams.
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Computação em Nuvem](https://img.shields.io/badge/Computação_em_Nuvem-00C7B7?style=for-the-badge&logo=cloudsmith&logoColor=white)
+- ☁️ Building practical projects with AWS
+- 🐍 Developing backend and automation solutions with Python
+- 🏗️ Learning Infrastructure as Code with Terraform
+- 🐧 Working with Linux, Git, Docker and cloud environments
+- 🎓 Volunteer AWS Cloud Practitioner mentor
+- 🌎 Based in Florianópolis, Brazil
+- 🗣️ Native Spanish | Advanced Portuguese | Intermediate English
 
 ---
 
-## 📚 Formação Atual
+## 🎯 Professional Focus
 
-🎯 Fullstack – Toti  
-🐍 Curso de Python – Entre21  
-🐧 Linux Fundamentals – DIO + Santander  
+I am preparing for opportunities such as:
 
----
+- Junior Cloud Engineer
+- Cloud Operations Analyst
+- Cloud Support Engineer
+- Junior DevOps Engineer
+- AWS Infrastructure Analyst
 
-## 📫 Contate-me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Villegas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
-
----
-
-
-
-# Hello World! 🦁  
-Hi, I'm Daniel Villegas! 👋  
-Welcome to my GitHub profile!
-
-🇻🇪 I'm originally from Venezuela and have been living in Brazil since 2019.  
-👨‍👩‍👧‍👧 Married for 18 years and proud father of two beautiful daughters.  
-💻 Passionate about technology, digital transformation, and innovation.
+My long-term goal is to become a **Cloud Solutions Architect**, combining technical knowledge, business understanding and leadership experience.
 
 ---
 
-## ✨ About Me
+## 🏆 AWS Certifications
 
-After more than 15 years of experience leading and supervising projects in construction, metalworking, and wood industries, I decided to follow a new professional path: **technology**.
+<p>
+  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_AI_Practitioner-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
 
-Now fully immersed in the tech world, I’m focused on cloud computing, backend development, and data analysis. I’ve earned certifications such as **AWS Cloud Practitioner** and **AWS AI Practitioner**, and contributed to the **ChefBot** project — a cloud-native solution built using AWS Lambda, Lex, DynamoDB, S3, Bedrock, and OpenSearch.
-
-I believe in continuous learning, innovation, and collaborative work. I'm looking for opportunities where I can contribute to impactful projects that shape the future of technology.
-
----
-
-## 🚀 Technologies & Tools
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS_Developer_Associate-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect_Associate-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
 
 ---
 
-## 📜 Certifications
+## 🚀 Featured Projects
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-00C7B7?style=for-the-badge&logo=cloudsmith&logoColor=white)
+### 🔍 Event-Driven Image Analysis with Amazon Rekognition
 
----
+Serverless and event-driven AWS architecture that automatically processes images uploaded to Amazon S3.
 
-## 📚 Current Learning Path
+**Technologies:** AWS Lambda, Amazon S3, Amazon Rekognition, Amazon DynamoDB, Amazon SQS, Python and IAM.
 
-🎯 Fullstack – Toti  
-🐍 Python Training – Entre21  
-🐧 Linux Fundamentals – DIO + Santander  
+🔗 [View repository](https://github.com/DevDan7/projeto-rekognition-ia)
 
 ---
 
-## 📫 Contact Me
+### 🌐 Static Website Hosting on AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Villegas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuusuario)
+Static website deployed using Amazon S3, including bucket configuration, public access policies and cloud hosting concepts.
+
+**Technologies:** Amazon S3, IAM, HTML and AWS Cloud.
+
+🔗 [View repository](https://github.com/DevDan7/s3-website-danielvillegas-2026)
 
 ---
+
+### 🤖 ChefBot — AI-Powered Recipe Assistant
+
+Cloud-native conversational assistant developed to generate and recommend recipes using AWS artificial intelligence services.
+
+**Technologies:** Amazon Bedrock, AWS Lambda, Amazon Lex, DynamoDB, S3, OpenSearch, CloudFront and Python.
+
+> Project developed collaboratively as part of my cloud and artificial intelligence learning journey.
+
+---
+
+### 🐧 Linux Infrastructure Automation
+
+Shell scripts for automating users, groups, directories, permissions and web server deployment in Linux environments.
+
+**Technologies:** Linux, Bash, Apache, Git and Infrastructure Automation.
+
+🔗 [View repository](https://github.com/DevDan7/projeto_linux_bootcamp)
+
+---
+
+## 🛠️ Technologies and Tools
+
+### Cloud and Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,bash" />
+</p>
+
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,javascript,html,css,postgres,dynamodb" />
+</p>
+
+### Tools and Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📚 Education and Continuous Learning
+
+- AWS Cloud Computing and Architecture
+- Backend Development with Python — SENAI
+- Full Stack Development — Toti
+- Linux Fundamentals — DIO and Santander
+- Terraform and Infrastructure as Code
+- Google Cloud fundamentals and generative AI labs
+- Technical Support, Service Desk and ITIL fundamentals
+
+---
+
+## 🤝 Community and Mentoring
+
+I volunteer as an **AWS Cloud Practitioner mentor at Escola da Nuvem**, where I:
+
+- Help students understand fundamental AWS services.
+- Conduct certification exam simulations.
+- Explain cloud concepts through practical examples.
+- Support students during their certification journey.
+- Create educational materials and technical presentations.
+
+I also participate in the **AWS User Group Florianópolis**, connecting with cloud professionals and contributing to the local technology community.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevDan7&show_icons=true&hide_border=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDan7&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I am open to connecting with cloud professionals, technology communities and companies looking for professionals with a strong learning mindset, leadership experience and practical AWS knowledge.
+
+- LinkedIn: [Daniel Villegas](https://www.linkedin.com/in/vdaniel07/)
+- GitHub: [DevDan7](https://github.com/DevDan7)
+
+---
+
+<p align="center">
+  <i>Building my cloud career one project, one certification and one challenge at a time.</i>
+</p>
+```
