@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Daniel Villegas 👋</h1>
 
 <h3 align="center">
@@ -176,4 +175,4 @@ I am open to connecting with cloud professionals, technology communities and com
 <p align="center">
   <i>Building my cloud career one project, one certification and one challenge at a time.</i>
 </p>
-```
+
