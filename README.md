@@ -167,14 +167,17 @@ I also participate in the **AWS User Group Florianópolis**, connecting with clo
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevDan7&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" alt="Daniel Villegas GitHub statistics">
+  Explore my repositories to see practical projects in AWS, Python, Linux, Terraform and cloud architecture.
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDan7&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages">
+  <a href="https://github.com/DevDan7?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories">
+  </a>
 </p>
 
 ---
+
 
 ## 📫 Let's Connect
 
